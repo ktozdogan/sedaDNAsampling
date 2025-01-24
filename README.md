@@ -24,7 +24,7 @@
 1. Dress up: \
   a. Put on the gloves first, and clean the hands with bleach. \
   b. Put the mask on.\
-  c. Put on the hair net, and the coverall (optional).\
+  c. Put on the hair net and the coverall (optional).\
   d. Put on another pair of gloves and clean your hands with bleach.\
   e. Take a spatula and clean it with bleach.\
 2. Use it to dig into the section about 3 cm.
@@ -37,7 +37,7 @@
 >  ⚠️ - Proper labeling is crucial. A label should include all the information about the sample’s location, sampling date, and (if known) archeological period. The location information should be based on the excavation's own system.
 7. Put the tube in a labeled zipped bag.
 8. Dispose of the spatula and the pair of gloves.
->  ⚠️ - In case of a limited number of materials, clean them with bleach intensively to reuse them.
+>  ⚠️ - In case of a limited number of materials, clean them intensively with bleach to reuse them.
 
 
 ✅ For the following sample, return to 1d and repeat the remaining steps.
@@ -46,45 +46,41 @@
 
 ### Materials
 
-Water-Bleach (5%) solution
-Water
-Bleach
-Plastic bottle
-Disposable gloves
-Paper towels
-Face masks
-Disposable coveralls
-Labelling stickers
-Plastic wraps
-Plastic cores
-A trowel
-Small zipped plastic bags
+- Water-Bleach (5%) solution
+- Water
+- Bleach
+- Plastic bottle
+- Disposable gloves
+- Paper towels
+- Face masks
+- Disposable coveralls
+- Labelling stickers
+- Plastic wraps
+- Metal or plastic pollen cores
+- Hammer
+- A trowel
+- Small zipped plastic bags
 
 ### Equipment Setup & Procedure
 
-Dress up:
-Put on the gloves first, and clean the hands with bleach.
-Put the mask on,
-Put on the hair net and the coverall (optional).
-Put on another pair of gloves and clean your hands with bleach.
-Take a spatula and clean it with bleach.
-Clean the surface with the spatula (or trowel)
-⚠ - Can be used again for other samples after cleaning with bleach.
+1. Dress up: \
+  a. Put on the gloves first, and clean the hands with bleach. \
+  b. Put the mask on.\
+  c. Put on the hair net and the coverall (optional).\
+  d. Put on another pair of gloves and clean your hands with bleach.\
+  e. Take a spatula and clean it with bleach.\
+2. Clean the surface with the spatula (or trowel)
+>  ⚠️ - Can be used again for other samples after cleaning with bleach. \
+3. Take the plastic core and place it in the section with the help of a hammer. \
+4. Take the core out with the help of a travel.
+5. Wrap the core with the plastic wrap.
+6. Put the sticker on the core and label the core.
+>  ⚠️ - Proper labeling is crucial. A label should include all the information about the sample’s location, sampling date, and (if known) archeological period. The location information should be based on the excavation's own system.
+7. Dispose of the spatula and the pair of gloves.
+>  ⚠️ - In case of a limited number of materials, clean them intensively with bleach to reuse them.
 
 
-Take the plastic core and place it in the section.
-Take the core out with the help of a travel.
-Wrap the core with the plastic wrap.
-Put the sticker on the core and label the core.
-⚠ - Proper labeling is crucial. A label should include all the information about the sample’s location, sampling date, and (if known) archeological period. The location information should be based on the system of the excavation.
-
-
-Put the core in a zipped bag.
-Dispose of the spatula and the pair of gloves.
-⚠ - In case of a limited number of materials, clean them with bleach intensively to reuse them.
-
-
-For the following sample, return to 1d and repeat the remaining steps.
+✅ For the following sample, return to 1d and repeat the remaining steps.
 
 
 ## Demonstration of sedaDNA Sampling

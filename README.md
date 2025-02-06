@@ -16,7 +16,7 @@
 - Disposable coveralls
 - Disposable spatulas (or metal spatulas)
 - Sterile spatula
-- 50 mL tubes
+- 50 mL sterile tubes
 - Small zipped plastic bags
 
 ### Equipment Setup & Procedure:
@@ -95,7 +95,7 @@
 - Disposable coveralls
 - Disposable spatulas (or metal spatulas)
 - Sterile spatula
-- 50 mL tubes
+- 50 mL sterile tubes
 - Small zipped plastic bags
 
 ### Equipment Setup & Procedure

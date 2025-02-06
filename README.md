@@ -44,6 +44,8 @@
 
 ## Protocol for Core Sampling from the Archaeological Section
 
+### Step-1: Field Sampling
+
 ### Materials
 
 - Water-Bleach (5%) solution
@@ -59,7 +61,6 @@
 - Metal or plastic pollen cores
 - Hammer
 - A trowel
-- Small zipped plastic bags
 
 ### Equipment Setup & Procedure
 
@@ -79,8 +80,25 @@
 7. Dispose of the spatula and the pair of gloves.
 >  ⚠️ - In case of a limited number of materials, clean them intensively with bleach to reuse them.
 
-
 ✅ For the following sample, return to 1d and repeat the remaining steps.
+
+### Step-2: Subsampling
+
+### Materials:
+- Water-Bleach (5%) solution
+- Water
+- Bleach
+- Plastic bottle
+- Disposable gloves
+- Paper towels
+- Face masks
+- Disposable coveralls
+- Disposable spatulas (or metal spatulas)
+- Sterile spatula
+- 50 mL tubes
+- Small zipped plastic bags
+
+### Equipment Setup & Procedure
 
 
 ## Demonstration of sedaDNA Sampling

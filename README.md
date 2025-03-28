@@ -100,6 +100,25 @@
 
 ### Equipment Setup & Procedure
 
+1. Dress up: \
+  a. Put on the gloves first, and clean the hands with bleach. \
+  b. Put the mask on.\
+  c. Put on the hair net and the coverall (optional).\
+  d. Put on another pair of gloves and clean your hands with bleach.\
+2. Take a spatula and clean it with bleach.
+>  ⚠️ - Can be used again for other samples after cleaning with bleach. \
+3. Clean the surface of the pollen core with the spatula (It can be used again for other samples after cleaning with bleach.
+4. Dig 2-5cm (close to the midpoint) through the cleaned area with a sterile spatula.
+5. Fill up the sterile tube with soil from the midpoint of the core with a sterile spatula.
+6. Close the lid and label the tube.
+>  ⚠️ - Proper labeling is crucial. A label should include all the information about the sample’s location, sampling date, and (if known) archeological period. The location information should be based on the excavation's own system. \
+7. Put the tube in a labeled zipped bag.
+8. Dispose of the spatula and the pair of gloves. 
+>  ⚠️ - In case of a limited number of materials, clean them intensively with bleach to reuse them.
+
+✅ For the following sample, return to 1d and repeat the remaining steps.
+
+
 
 ## Demonstration of sedaDNA Sampling
 
